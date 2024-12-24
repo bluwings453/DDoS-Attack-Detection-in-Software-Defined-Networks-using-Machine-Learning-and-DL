@@ -59,16 +59,6 @@ The project demonstrates the effectiveness of ML/DL models in detecting DDoS att
 3. **🗃️ Prepare the dataset:**  
    Ensure the dataset is in the correct format and location.  
 
-4. **🤖 Run the model training script:**  
-   ```bash
-   python train_model.py
-   ```  
-
-5. **📉 Evaluate the model:**  
-   ```bash
-   python evaluate_model.py
-   ```  
-
 ---
 
 ## 🔮 Future Work  
