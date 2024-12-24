@@ -51,12 +51,7 @@ The project demonstrates the effectiveness of ML/DL models in detecting DDoS att
    git clone https://github.com/bluwings453/DDoS-Attack-Detection-in-Software-Defined-Networks-using-Machine-Learning-and-DL
    ```  
 
-2. **📦 Install the required libraries:**  
-   ```bash
-   pip install -r requirements.txt
-   ```  
-
-3. **🗃️ Prepare the dataset:**  
+2. **🗃️ Prepare the dataset:**  
    Ensure the dataset is in the correct format and location.  
 
 ---
